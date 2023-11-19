@@ -5,7 +5,7 @@ I'm Mohamed Khaled, a passionate undergraduate computer engineer with enthusiasm
 ## 🔧 Skills
 
 - **Programming Languages:** C/C++, Java, Python.
-- **Technologies:** Git, Linux, Docker
+- **Technologies:** Git.
 - **Problem Solving:** Algorithms, Data Structures, Competetive programming.
 
 ## 🌱 Currently Learning
