@@ -14,8 +14,7 @@ I'm Mohamed Khaled, a passionate undergraduate computer engineer with enthusiasm
 
 ## 📫 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/mohamed-khaled-21a796139/
-- Email: mohamed.khaled1872002@gmail.com
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-khaled-21a796139)
 
 ## 🤝 Open to Collaboration
 
