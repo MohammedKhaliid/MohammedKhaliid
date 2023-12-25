@@ -19,7 +19,7 @@ I'm Mohamed Khaled, a passionate undergraduate computer engineer with enthusiasm
 ## 🧠 Skills
 - **Problem Solving:** Algorithms, Data Structures, Competetive programming.
   
-## <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning Currently Learning
+## <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="40" />&nbsp;Currently Learning
 
 - Enhancing my skills in full-stack web development.
 
