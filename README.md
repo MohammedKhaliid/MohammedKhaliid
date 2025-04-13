@@ -38,6 +38,7 @@ I'm a Computer & Communication Engineering undergrad from Alexandria, Egypt. I e
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
+---
 
 ## 🚀 Projects & Exploration
 
