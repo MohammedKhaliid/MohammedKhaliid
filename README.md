@@ -1,4 +1,4 @@
-# Hi there, I'm Mohamed 👋  
+# Hi there, I'm Mohamed Khaled 👋  
 
 ## 👨‍💻 About Me  
 - Senior Computer & Communication Engineering student @ Alexandria University  
